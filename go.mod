@@ -1,3 +1,3 @@
-module GeeRPC
+module geerpc
 
 go 1.17
